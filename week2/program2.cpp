@@ -1,4 +1,4 @@
-//c++ program to read and display one dimensional array elements
+//c++ program to read and display one dimensional array elements using pointers
 #include<iostream>
 using namespace std;
 int main()
