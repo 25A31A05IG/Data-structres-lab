@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-  cout<<"Nmae:Ramesh";
+  cout<<"Name:Ramesh";
   cout<<"Roll.No:25A31A05IG";
   cout<<"Branch:CSE";
   cout<<"Section:E";
