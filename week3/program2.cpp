@@ -4,7 +4,7 @@ using namespace std:
 int main()
 {
   int a[10],n,i,key,count=0;
-cout<<"netre n and key values:";
+cout<<"enter n and key values:";
 cin>>n>>key;
 for(i=0;i<n;i++)
 {
